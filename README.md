@@ -15,10 +15,9 @@
 <a href="https://dev.to/kamalsinghkhanna">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<br />
 
-<br>
-
-
+### About Me 🚀
 
 🌱 I’m currently learning Web Devlopement and Machine learning.
 
