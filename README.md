@@ -23,6 +23,16 @@
 
 🔭 I'm an open source enthusiast and trying to learn devops.
 
+
+### 🚀 Time for some stats
+
+![kamal's github stats](https://github-readme-stats.vercel.app/api?username=kamalsinghkhanna&show_icons=true&hide_border=true)
+
+![Kamal's github streak](https://github-readme-streak-stats.herokuapp.com/?user=kamalsinghkhanna&show_icons=true&hide_border=true)
+
+![kamal's github contribution graph](https://activity-graph.herokuapp.com/graph?username=kamalsinghkhanna&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)
+
+
 <!--
 **KamalSinghKhanna/KamalSinghKhanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
