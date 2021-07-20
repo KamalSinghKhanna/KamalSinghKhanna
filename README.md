@@ -33,6 +33,8 @@ Data Structures and Algorithms in java and machine learning.
 ### 🚀 Time for some stats
 
 ![kamal's github stats](https://github-readme-stats.vercel.app/api?username=kamalsinghkhanna&show_icons=true&hide_border=true)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id = kamalsinghkhanna )
+
 
 
 
