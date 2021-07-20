@@ -19,9 +19,15 @@
 
 ### About Me 🚀
 
-🌱 I’m currently learning Web Devlopement and Machine learning.
-
 🔭 I'm an open source enthusiast and trying to learn devops.
+
+
+### 💻 I’m currently working as
+CommunityClassroom Campus Leader.
+
+
+### 🌱 I'm currently studying 
+Data Structures and Algorithms in java and machine learning.
 
 
 ### 🚀 Time for some stats
