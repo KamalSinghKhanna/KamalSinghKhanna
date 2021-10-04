@@ -19,7 +19,11 @@
 
 ### About Me 🚀
 
-🔭 I like  open source projects sometimes and trying to learn devops, full stack.
+🔭 I'm an open source enthusiast and trying to learn devops.
+
+
+### 💻 I’m currently working as
+CommunityClassroom Campus Leader.
 
 
 ### 🌱 I'm currently studying 
