@@ -22,7 +22,7 @@
 🔭  I like  open source projects sometimes and trying to learn devops, full stack.
 
 ### 🌱 I'm currently studying 
-Data Structures and Algorithms in java and machine learning.
+Data Structures and Algorithms in java and web development.
 
 
 ### 🚀 Time for some stats
