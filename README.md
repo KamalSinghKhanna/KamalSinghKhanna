@@ -28,7 +28,7 @@ Data Structures and Algorithms in java and web development.
 ### 🚀 Time for some stats
 
 ![kamal's github stats](https://github-readme-stats.vercel.app/api?username=kamalsinghkhanna&show_icons=true&hide_border=true)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id = kamalSinghKhanna )
+![visitors](https://visitor-badge.laobi.icu/badge?page_id = kamalSinghKhanna.visitor-badge )
 
 
 
