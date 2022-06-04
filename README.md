@@ -3,13 +3,13 @@
 <a href="http://www.linkedin.com/in/kamal-khanna-0547291b6">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/twt_of_mine">
+<a href="https://twitter.com/_kamalkhanna">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:kamalsinghkhanna2706@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.instagram.com/_kamalkhanna/">
+<a href="https://www.instagram.com/kamal.khanna_/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://dev.to/kamalsinghkhanna">
@@ -28,7 +28,7 @@ Data Structures and Algorithms in java and web development.
 ### 🚀 Time for some stats
 
 ![kamal's github stats](https://github-readme-stats.vercel.app/api?username=kamalsinghkhanna&show_icons=true&hide_border=true)
-<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id = kamalsinghkhanna ) -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id = kamalsinghkhanna )
 
 
 
