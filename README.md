@@ -19,7 +19,7 @@
 
 ### About Me 🚀
 
-🔭  I like  open source projects sometimes and trying to learn devops, full stack.
+🔭  I like  open source projects sometimes and trying to learn  full stack.
 
 ### 🌱 I'm currently studying 
 Data Structures and Algorithms in java and web development.
