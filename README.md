@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Kamal!](https://kamalsinghkhanna.github.io/) 
 
 <a href="http://www.linkedin.com/in/kamal-khanna-0547291b6">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://img.icons8.com/doodle/344/linkedin-circled.png"  />
 </a>
 <a href="https://twitter.com/_kamalkhanna">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
