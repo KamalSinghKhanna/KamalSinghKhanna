@@ -4,13 +4,13 @@
   <img align="left" width="24px" src="https://img.icons8.com/doodle/344/linkedin-circled.png"  />
 </a>
 <a href="https://twitter.com/_kamalkhanna">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="26px" src="https://img.icons8.com/plasticine/344/twitter.png" />
 </a>
 <a href="mailto:kamalsinghkhanna2706@gmail.com">
-  <img align="left" color="white" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" color="white" width="26px" src="https://img.icons8.com/doodle/2x/gmail.png" />
 </a>
 <a href="https://www.instagram.com/kamal.khanna_/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" width="26px" src="https://img.icons8.com/3d-plastilina/2x/3d-plastilina-square-pink-instagram-logo.png" />
 </a>
 <a href="https://dev.to/kamalsinghkhanna">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
