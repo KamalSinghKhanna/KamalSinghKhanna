@@ -12,8 +12,8 @@
 <a href="https://www.instagram.com/kamal.khanna_/">
   <img align="left" width="26px" src="https://img.icons8.com/3d-plastilina/2x/3d-plastilina-square-pink-instagram-logo.png" />
 </a>
-<a href="https://dev.to/kamalsinghkhanna">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://kamalk.substack.com/p/coming-soon?utm_source=substack&utm_medium=web&utm_campaign=profile_page&showWelcome=true">
+  <img align="left" width="26px" src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-blog-online-services-soft-fill-soft-fill-juicy-fish.png" />
 </a>
 <br />
 
