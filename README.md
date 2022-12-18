@@ -19,10 +19,10 @@
 
 ### About Me 🚀
 
-🔭  I like  open source projects sometimes and trying to learn  full stack.
+🔭  I like to see others code.
 
 ### 🌱 I'm currently studying 
-Data Structures and Algorithms in java and web development.
+  web development
 
 
 ### 🚀 Time for some stats
