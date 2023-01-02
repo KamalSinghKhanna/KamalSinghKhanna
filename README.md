@@ -29,7 +29,7 @@
 
 ![kamal's github stats](https://github-readme-stats.vercel.app/api?username=kamalsinghkhanna&show_icons=true&hide_border=true)
 <br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kamal-khanna.kamal-khanna)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kamalsinghkhanna.visitor-badge)
 
 
 
