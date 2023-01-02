@@ -10,7 +10,7 @@
   <img align="left" color="white" width="26px" src="https://img.icons8.com/doodle/2x/gmail.png" />
 </a>
 <a href="https://www.instagram.com/kamal.khanna_/">
-  <img align="left" width="26px" src="https://img.icons8.com/3d-plastilina/2x/3d-plastilina-square-pink-instagram-logo.png" />
+  <img align="left" width="26px" src="https://img.icons8.com/fluency/512/instagram-new.png" />
 </a>
 <a href="https://kamalk.substack.com/p/coming-soon?utm_source=substack&utm_medium=web&utm_campaign=profile_page&showWelcome=true">
   <img align="left" width="26px" src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-blog-online-services-soft-fill-soft-fill-juicy-fish.png" />
