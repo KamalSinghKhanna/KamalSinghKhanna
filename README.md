@@ -1,3 +1,6 @@
+
+<h1 align="center">Hey, I'm Archishman Sengupta <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Kamal!](https://kamalsinghkhanna.github.io/) 
 
 <a href="http://www.linkedin.com/in/kamal-khanna-0547291b6">
