@@ -55,9 +55,7 @@
 
 ![kamal's github stats](https://github-readme-stats.vercel.app/api?username=kamalsinghkhanna&show_icons=true&hide_border=true)
 <br />
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kamalsinghkhanna.visitor-badge)
- -->
-![](https://hit.yhype.me/github/profile?user_id=78915058)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kamalsinghkhanna.visitor-badge)
 
 
 <!--
