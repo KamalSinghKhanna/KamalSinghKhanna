@@ -57,7 +57,7 @@
 <br />
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kamalsinghkhanna.visitor-badge)
  -->
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=archishmansengupta&label=Profile%20views&color=0e75b6&style=flat" alt="archishmansengupta" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalsinghkhanna&label=Profile%20views&color=0e75b6&style=flat" alt="kamalsinghkhanna" /> </p>
 
 
 
