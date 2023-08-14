@@ -51,10 +51,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-### 🚀 Time for some stats
-
-![kamal's github stats](https://github-readme-stats.vercel.app/api?username=kamalsinghkhanna&show_icons=true&hide_border=true)
-<br />
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kamalsinghkhanna.visitor-badge) -->
 
 
