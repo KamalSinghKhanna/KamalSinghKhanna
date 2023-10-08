@@ -1,7 +1,6 @@
-<div style="display: flex; align-items: center;">
-  <h1>Hi,</h1>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" />
-</div>
+## Hi,
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" />
+
 ## I'm [Kamal!](https://kamalsinghkhanna.github.io/) 
 
 <a href="http://www.linkedin.com/in/kamal-khanna-0547291b6">
