@@ -1,6 +1,5 @@
-##
-  Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,
- I'm [Kamal!](https://kamalsinghkhanna.github.io/) 
+## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,
+## I'm [Kamal!](https://kamalsinghkhanna.github.io/) 
 
 <a href="http://www.linkedin.com/in/kamal-khanna-0547291b6">
   <img align="left" width="24px" src="https://img.icons8.com/fluency/512/linkedin.png"  />
