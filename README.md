@@ -25,7 +25,7 @@
 🔭  I like to see others code.
 
 ### 🌱 I'm currently studying 
-  web development
+  web development and problem solving 
   
 ✈️ Hire me for remote work & internships
 
