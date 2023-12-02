@@ -29,7 +29,7 @@
   
 ✈️ Hire me for remote work & internships
 
-<img src="https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif" height="250px" width="450px" alt="Twitter" align="center">
+<img src="https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif" height="250px" width="100%" alt="Twitter" align="center">
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -48,6 +48,7 @@
   ![Next.Js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 - 🛢 &nbsp;
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+   ![Mongodb](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
