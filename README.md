@@ -29,7 +29,6 @@
   
 ✈️ Hire me for remote work & internships
 
-<img src="https://user-images.githubusercontent.com/71402528/106022694-225cfd80-60ec-11eb-9d3d-78cf6bf8d2ef.gif" height="250px" width="100%" alt="Twitter" align="center">
 
 ## 🛠 &nbsp;Tech Stack
 
