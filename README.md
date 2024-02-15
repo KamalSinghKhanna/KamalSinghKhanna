@@ -57,8 +57,8 @@
 
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kamalsinghkhanna.visitor-badge) -->
- <img src="https://komarev.com/ghpvc/?username=KamalSinghKhanna&label=Profile%20views&color=0e75b6&style=flat" alt="st1llwater" />
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=KamalSinghKhanna&label=Profile%20views&color=0e75b6&style=flat" alt="st1llwater" /> </p>
 <!--
 **KamalSinghKhanna/KamalSinghKhanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
